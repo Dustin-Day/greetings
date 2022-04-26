@@ -1,8 +1,10 @@
 # Dustin Day
 Welcome!!!!
 
-## More to come soon...
+### More to come soon...
 
-##For now let's network!
+## Social synergies
 
 Let's connect on [LinkedIn](https://www.linkedin.com/in/dustinrday/)
+
+Follow me on [Medium](https://dustin-day.medium.com/)
