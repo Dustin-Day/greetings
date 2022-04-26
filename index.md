@@ -1,7 +1,4 @@
-# Dustin Day
-Welcome!!!!
-
-### More to come soon...
+More to come soon...
 
 ## Social synergies
 
