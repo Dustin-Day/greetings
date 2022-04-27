@@ -1,9 +1,5 @@
-# Dustin.Day
-*My personal repo of useful information and gibberish.*
 
----
-
-### More to come soon...
+_*More content to be published soon*_
 
 ---
 
