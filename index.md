@@ -1,8 +1,8 @@
 
 
-### *More content coming soon*
+#### *More content coming soon*
 
----
+
 
 #### Social synergies
 
