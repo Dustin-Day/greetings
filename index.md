@@ -1,6 +1,13 @@
-More to come soon...
+# Dustin.Day
+*My personal repo of useful information and gibberish.*
 
-## Social synergies
+---
+
+### More to come soon...
+
+---
+
+### Social synergies
 
 Let's connect on [LinkedIn](https://www.linkedin.com/in/dustinrday/)
 
