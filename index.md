@@ -1,9 +1,10 @@
 
-_*More content to be published soon*_
+
+### *More content coming soon*
 
 ---
 
-### Social synergies
+#### Social synergies
 
 Let's connect on [LinkedIn](https://www.linkedin.com/in/dustinrday/)
 
