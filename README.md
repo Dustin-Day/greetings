@@ -1,4 +1,4 @@
-# gGreetings and Salutations!
+# Greetings and Salutations!
 
 You have found the repo that supports Dustin.Day!
 
