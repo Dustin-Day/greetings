@@ -1,3 +1,7 @@
+# Greetings!
 
+Now that you have found this page, connect with me on these social platforms:
 
-**More content coming soon, for now let's connect on [LinkedIn](https://www.linkedin.com/in/dustinrday/).  Also, feel free to follow me on [Medium](https://dustin-day.medium.com/) for interesting tidbits.**
+- [LinkedIn](https://www.linkedin.com/in/dustinrday/)
+- [Medium](https://dustin-day.medium.com/)
+- [Twitter](https://twitter.com/dustinday_)
